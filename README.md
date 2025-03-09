@@ -1,4 +1,4 @@
-Airdrop Claimer Script 🚀
+<h1>🚀 MULTI AIRDROP TOKEN CLAIMER TOOL 🚀</h2>
 
 Effortlessly claim your crypto airdrops with this lightweight, customizable tool. 💰
 
@@ -12,4 +12,4 @@ Features ✨
 
 Installation 🛠️
 
-    Clone the Repo
+  DOWNLOAD THE Mul
