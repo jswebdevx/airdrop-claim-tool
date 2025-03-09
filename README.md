@@ -10,7 +10,8 @@ Features ✨
     Lightweight: Minimal dependencies, maximum efficiency. 🪶
     Open Source: Free to use, fork, and improve. 👐
 
-<img src="https://i.imgur.com/uFReGsC.png">
+
+<img src="https://i.imgur.com/ZiApbix.png">
     
 
 Installation 🛠️
